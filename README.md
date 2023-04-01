@@ -14,5 +14,5 @@ We will be analysing the gathered data in an excel sheet.
 - As regards the salary column, what we will be is that we'll keep the original column and we will create a copy of that column:
       - First of all, we will split the columns by a delimiter so that we can calculate the avg between the Min and Max of each salary interval.
       - Then we'll create a Custom column to calculate that avg value.
-      
+- After adding the different visuals to the report, we've also added a funnel button to clear all filters.
       
